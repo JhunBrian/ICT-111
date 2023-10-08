@@ -5,7 +5,7 @@ Welcome to the ICT-111 repository! This repository is dedicated to storing all t
 ## Course Overview
 
 - **Course Name:** ICT-111 - Programming with Python
-- **Instructor:** Jhun Brian M. Anda
+- **Instructor:** Jhun Brian M. Andam
 - **Institution:** University of Science and Technology of Southern Philippines
 - **Semester/Year:** 1st Semester / A.Y. 2023-2024
 
